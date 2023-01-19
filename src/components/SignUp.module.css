@@ -1,0 +1,37 @@
+.container{
+    display: block;
+    align-items: center;
+    padding-left: 30em;
+    padding-right: 0;
+
+
+}
+input {
+    width: 100%;
+    min-height: 2rem;
+    padding: 0.5rem;
+  }
+  label,
+input,
+button {
+  display: block;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  color: #565656;
+}
+input {
+    width: 100%;
+    min-height: 2rem;
+    padding: 0.5rem;
+  }
+  button {
+    color: #fff;
+    background-color: #9a8d8d;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+    margin-top: 5px;
+    border: none;
+    border-radius: 10px;
+    border-radius: 0.25rem;
+    margin: 0;
+  }
